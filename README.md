@@ -7,3 +7,4 @@ key features
 3.theme selection 
 4.song ,details,lyrics are stored in the project 
 5.simple and easy code at beginner level 
+6.search music .

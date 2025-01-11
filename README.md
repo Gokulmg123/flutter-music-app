@@ -8,3 +8,4 @@ key features
 4.song ,details,lyrics are stored in the project 
 5.simple and easy code at beginner level 
 6.search music .
+7.splash screen 
